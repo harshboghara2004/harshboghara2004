@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Harsh Boghara, a final-year Computer Science major student at Nirma University.<br><br>I'm a competitive programmer who loves tackling algorithmic challenges and participating in coding contests.<br><br>Currently, I'm diving into the world of Full-Stack Development, focusing on the MERN (MongoDB, Express.js, React, Node.js) stack. <br>
+Hi there, I'm Harsh Boghara, a final-year Computer Science major student at Nirma University.<br><br>I'm a competitive programmer who loves tackling algorithmic challenges and participating in coding contests.<br><br>Currently, I'm diving into the world of Full-Stack Development, focusing on the Next JS framework. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-boghara-0a6a22237/) 
