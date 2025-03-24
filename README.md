@@ -13,3 +13,4 @@ Hi there, I'm Harsh Boghara, a final-year Computer Science major student at Nirm
 # Mobile App Development Skills:
 [![My Skills](https://skillicons.dev/icons?i=dart,firebase,flutter,swift)](https://skillicons.dev) 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshboghara004&theme=dark&hide_border=true)](https://git.io/streak-stats)
